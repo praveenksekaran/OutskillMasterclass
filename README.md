@@ -13,7 +13,20 @@ feynman technique - how to learn faster
 # Links 
 - artificialanalysis.ai - Number of Models and analysis of each model
 - promptingguide.ai - learning about prompting
-- Intology - AI agent paper publishing 
+- Intology - AI agent paper publishing
+
+# Framework
+- Lance: Vector DB
+- Smithery & Composio: MCP Registry 
+- LlamaIndex: open source LLM
+   
+<img width="1186" height="673" alt="image" src="https://github.com/user-attachments/assets/5d2e08c1-c191-4aff-8ff1-7beb6981acf7" />
+
+# Tools & Workflows 
+
+<img width="1161" height="657" alt="image" src="https://github.com/user-attachments/assets/362041e9-cd88-4aed-8c68-96f11c9c50ed" />
+
+
 
 
 # Agenda 
