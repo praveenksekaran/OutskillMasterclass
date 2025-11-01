@@ -3,6 +3,7 @@ Refresh course for LLM and AI
 
 # Trainers
 1. Omprakash Asnani
+2. Ishan Dutta
 
 AI Native Engineer = is a full stack problem slover who 1. Deeep understanding of all the models, Understands which models to use where & how, has the ability to build solutions to solve 
 
